@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
+#import "AFNetworking.h"
 
 @interface practice2Tests : XCTestCase
 
